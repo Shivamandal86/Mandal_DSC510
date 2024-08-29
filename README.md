@@ -1,1 +1,1 @@
-# Mandal_DSC510
+This is for exercising on GitHub. Thank you.
